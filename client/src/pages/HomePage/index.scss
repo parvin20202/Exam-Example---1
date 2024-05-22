@@ -1,0 +1,19 @@
+#hero {
+  background-image: url("https://preview.colorlib.com/theme/course/images/slider_background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#register {
+  .left {
+    background-color: #ffb606;
+  }
+  .right {
+    background-image: url("https://preview.colorlib.com/theme/course/images/search_background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    button {
+      background-color: #ffb606;
+    }
+  }
+}

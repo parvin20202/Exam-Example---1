@@ -1,0 +1,9 @@
+@import "../../assets/sass/responsive";
+
+#header {
+    @include for-small-devices {
+        .header-logo {
+            text-align: center;
+        }
+    }
+}
